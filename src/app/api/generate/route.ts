@@ -13,10 +13,10 @@ VIBE CHECK — go for scenarios like:
 - Naming your Wi-Fi access points after rejected Form 471 line items "so they'll never be forgotten"
 - Sending a client a birthday card but it's just a printout of their approved Funding Commitment Decision Letter
 
-Mix it up between:
-- Clearly appropriate (but described in the most unhinged way possible)
-- Clearly inappropriate (but SO funny and specific you can't help but laugh)
-- Absolute gray areas that will split the room 50/50
+Most scenarios should be CLEAR CUT:
+- 70% of the time: Clearly appropriate OR clearly inappropriate — no ambiguity, obvious answer but described in the most unhinged way possible
+- 30% of the time: Gray areas that will split the room 50/50
+The verdict should be OBVIOUS to anyone in the E-Rate world. Make the comedy come from HOW the scenario is described, not from whether it's appropriate or not.
 
 RULES:
 - These are for E-RATE CONSULTANTS/GUIDES — people who deal with FCC forms, USAC, school districts, libraries, fiber installs, Category 1 & 2, 470s, 471s, competitive bidding, etc.
