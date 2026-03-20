@@ -159,7 +159,7 @@ export default function HostPage() {
       <div className="game-container">
         <div className="screen loading-screen">
           <div className="loader-ring">
-            <div className="loader-emoji">🎯</div>
+            <div className="loader-emoji">📋</div>
           </div>
           <p className="loading-text">Loading game...</p>
         </div>
@@ -200,7 +200,7 @@ export default function HostPage() {
       {game.status === "lobby" && (
         <div className="screen lobby-screen">
           <div className="logo-container">
-            <div className="logo-icon">🎯</div>
+            <div className="logo-icon">📋</div>
             <h1 className="logo-title" style={{ fontSize: "clamp(1.8rem, 5vw, 2.8rem)" }}>
               APPROPRIATE
               <span className="logo-or">or</span>
@@ -438,7 +438,7 @@ export default function HostPage() {
           <div className="loader-ring">
             <div className="loader-emoji">🎲</div>
           </div>
-          <p className="loading-text">Cooking up something unhinged...</p>
+          <p className="loading-text">Filing a Form 471 for chaos...</p>
         </div>
       )}
     </div>

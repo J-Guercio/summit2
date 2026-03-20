@@ -176,7 +176,7 @@ export default function PlayPage() {
       <div className="game-container">
         <div className="screen loading-screen">
           <div className="loader-ring">
-            <div className="loader-emoji">🎯</div>
+            <div className="loader-emoji">📋</div>
           </div>
           <p className="loading-text">Connecting to game...</p>
         </div>
@@ -216,7 +216,7 @@ export default function PlayPage() {
       {playerState === "join" && (
         <div className="screen name-screen">
           <div className="name-header">
-            <span className="name-emoji">🎯</span>
+            <span className="name-emoji">📋</span>
             <h2 className="name-title">Join Game</h2>
             <p className="name-subtitle">Game code: <strong className="game-code-inline">{code}</strong></p>
           </div>

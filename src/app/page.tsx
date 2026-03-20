@@ -67,14 +67,14 @@ export default function Home() {
     <div className="game-container">
       <div className="screen menu-screen">
         <div className="logo-container">
-          <div className="logo-icon">🎯</div>
+          <div className="logo-icon">📋</div>
           <h1 className="logo-title">
             APPROPRIATE
             <span className="logo-or">or</span>
             NOPE<span className="logo-q">?</span>
           </h1>
           <p className="logo-subtitle">
-            The workplace scenario game that&apos;s <em>definitely</em> appropriate for work
+            The E-Rate scenario game that&apos;s <em>definitely</em> USAC-approved
           </p>
         </div>
 
@@ -115,7 +115,7 @@ export default function Home() {
           {joinError && <p className="join-error">{joinError}</p>}
         </div>
 
-        <p className="round-info">3 rounds · Multiplayer · Powered by AI</p>
+        <p className="round-info">3 rounds · Multiplayer · Powered by AI · E-Rate Edition</p>
       </div>
     </div>
   );
